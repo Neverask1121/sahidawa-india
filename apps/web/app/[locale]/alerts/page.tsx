@@ -1,8 +1,14 @@
 import React from "react";
-import { Activity, ArrowLeft, Filter, AlertTriangle, AlertCircle } from "lucide-react";
+import {
+    Activity,
+    ArrowLeft,
+    Filter,
+    AlertTriangle,
+    AlertCircle,
+    Globe,
+} from "@/components/ui/Icons";
 import Link from "next/link";
 import { supabase } from "@/lib/supabase";
-import { Globe } from "lucide-react";
 import RecallPushSubscriber from "@/components/alerts/RecallPushSubscriber";
 import { LiveMessage } from "@/components/ui/LiveMessage";
 
