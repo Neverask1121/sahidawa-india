@@ -71,6 +71,9 @@ export default async function LocaleLayout({
                             <div className="flex flex-col flex-grow">
                                 <OfflineErrorBoundary>{children}</OfflineErrorBoundary>
                             </div>
+                            <main className="flex-grow">
+                                <OfflineErrorBoundary>{children}</OfflineErrorBoundary>
+                            </main>
                             <Footer />
                             <div className="no-print">
                                 <BackToTopButton />
