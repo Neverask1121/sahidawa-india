@@ -43,6 +43,7 @@
         "alerts": "अलर्ट",
         "pharmacy_map": "फार्मेसी मानचित्र",
         "my_reports": "मेरी रिपोर्ट",
+        "schedule": "शेड्यूल",
         "home": "होम",
         "scans": "स्कैन",
         "map": "मानचित्र",
@@ -642,6 +643,7 @@
         "nav_compare": "Compare Medicines",
         "nav_vaccine": "Vaccine Hub",
         "nav_reports": "My Reports",
+        "nav_schedule": "दवा शेड्यूल",
         "nav_profile": "My Profile"
     },
     "howItWorks":{
